@@ -1,0 +1,32 @@
+mkdir - make directory/folder
+ls - list  all files/directory inside directory
+cd - change directory
+cd ..  - move inside folder
+clear - clear terminal
+exit - exit terminal
+touch - create new file 
+
+
+
+git and github 
+
+Github - platform for keep their repository/project
+
+git - Version Control System (it controls our project different versions/state)
+ 
+
+
+git init - Initialize "git" inside repository
+
+git add .
+
+U - Unstage
+M  - Modified
+A -  Staged
+
+
+commit -  
+
+push -
+
+pull -

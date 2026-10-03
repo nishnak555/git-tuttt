@@ -18,15 +18,37 @@ git - Version Control System (it controls our project different versions/state)
 
 git init - Initialize "git" inside repository
 
-git add .
+git add .  - stage all files 
+
+git commit -m "make github and git tutorial"
+
+git log - commit history 
+
+git status - current status of your project
+
+git remote  add origin  "url " - for adding remote to local repository
+
+git remote -v  - for seeing remote url
+
+git remote remove origin - remove current remote url 
+
+
+git pull origin main - pulling changes from origin/remote
+
 
 U - Unstage
 M  - Modified
 A -  Staged
 
 
-commit -  
+commit -  commit your staged changes
 
-push -
+push - push your changes to "origin/remote" repository
 
 pull -
+
+
+branch - main  -- currently working branch
+
+
+
